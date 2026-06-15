@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see you shining in the shadows of the neon light
+> Your body moving like a rhythm that can cure the night
+> I want to pull you close and whisper what you need to hear
+> Those healing words we share whenever you are standing near
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
