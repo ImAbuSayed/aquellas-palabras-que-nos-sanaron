@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquellas-palabras-que-nos-sanaron/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aquellas palabras que nos sanaron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-nos-sanaron/) |
+| **Get License** | [Obtain a Music License for Aquellas palabras que nos sanaron](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquellas-palabras-que-nos-sanaron/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3354)
 
 ---
 
